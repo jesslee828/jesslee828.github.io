@@ -1,0 +1,50 @@
+h1{
+    color: whitesmoke;
+    font-family: Montserrat;
+    font-size: 300%;
+    text-align: center;
+    background-color: rgb(179, 179, 176);
+    max-width: 500px; 
+}
+
+h2 {
+    color: lavenderblush;
+    font-family: Slabo 27px;
+    font-size: 320%;
+
+}
+body {
+    color: #3e3e3e;
+    background-color: #fff;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5c438e2396e76fd92c2cf515/1553882387306-SSUVJE3RZQ2HPO3YP7LB/ke17ZwdGBToddI8pDm48kPhE_b-FKx_EcxRx4teFEVN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fL8LmMajxsBXeYxVzkYts3ds68Ud4HgM4ArFxmxGpI5hQ/home-cover.jpg?format=2500w");
+    margin: 35px;
+  }
+
+  nav {
+    background-color: rgb(179, 179, 176);
+    max-width: 150px; 
+    list-style-type: none;
+}
+
+main{
+    margin: 0;
+    background-color: rgb(179, 179, 176);
+}
+
+li.active {
+    background-color: lavenderblush;
+    max-width: 150px; 
+    text-align: -webkit-match-parent;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20;
+  padding: 0;
+  width: 300px;
+} 
+
+footer {
+    text-align: center;
+    font-size: small;
+}
